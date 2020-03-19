@@ -2,9 +2,9 @@
 
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-> Share something interesting by React.
+> Share interesting things by React.
 
 ### components
 
 #### mini-router
-a router writed by context and hooks;
+a minimal router writed by context and hooks;
